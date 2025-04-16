@@ -39,7 +39,6 @@ This is a console-based Library Management System implemented in C++. It utilize
 | `Double_Linked_List.h` | Implementation of a sorted Doubly Linked List    |
 | `AVL.h`                | Template-based AVL Tree for efficient search     |
 | `Lib_sys.h`            | `Library` class that integrates AVL & DLL logic  |
-|------------------------|--------------------------------------------------|
 
 ## 🛠️ How to Run
 
